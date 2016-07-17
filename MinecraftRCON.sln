@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinecraftRCON", "MinecraftRCON\MinecraftRCON.csproj", "{91419638-CB25-4A57-B540-FF6D5702CF91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{B74B3188-926C-46EF-A9C3-24731B1593AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91419638-CB25-4A57-B540-FF6D5702CF91}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{91419638-CB25-4A57-B540-FF6D5702CF91}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{91419638-CB25-4A57-B540-FF6D5702CF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91419638-CB25-4A57-B540-FF6D5702CF91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74B3188-926C-46EF-A9C3-24731B1593AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74B3188-926C-46EF-A9C3-24731B1593AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74B3188-926C-46EF-A9C3-24731B1593AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74B3188-926C-46EF-A9C3-24731B1593AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

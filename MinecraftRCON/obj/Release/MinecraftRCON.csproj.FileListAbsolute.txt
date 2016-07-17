@@ -1,0 +1,15 @@
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\bin\Release\MinecraftRCON.exe.config
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\bin\Release\MinecraftRCON.exe.manifest
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\bin\Release\MinecraftRCON.application
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\bin\Release\MinecraftRCON.exe
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\bin\Release\MinecraftRCON.pdb
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\bin\Release\Newtonsoft.Json.dll
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\bin\Release\Newtonsoft.Json.xml
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\obj\Release\MinecraftRCON.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\obj\Release\MinecraftRCON.Form1.resources
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\obj\Release\MinecraftRCON.Properties.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\obj\Release\MinecraftRCON.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\obj\Release\MinecraftRCON.exe.manifest
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\obj\Release\MinecraftRCON.application
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\obj\Release\MinecraftRCON.exe
+E:\Documents\Visual Studio 2015\Projects\MinecraftRCON\MinecraftRCON\obj\Release\MinecraftRCON.pdb
